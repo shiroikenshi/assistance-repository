@@ -1,0 +1,5 @@
+modificação em catorpy>img_transfer
+
+x, xstep = np.linspace(x_lower, x_upper, int(nx), retstep=True, endpoint=False)
+y, ystep = np.linspace(y_lower, y_upper, int(ny), retstep=True, endpoint=False)
+
